@@ -1,0 +1,41 @@
+*{
+ box-sizing: border-box;
+ padding: 0;
+ margin: 0;   
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html {
+    line-height: 1.15; 
+    -webkit-text-size-adjust: 100%; 
+  }
+
+body {
+    background-color:  royalblue;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--text-white-600);
+}
+
+a {
+background-color: transparent;
+outline: none;
+}
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+ol, ul {
+    list-style: none;
+  }
+  
+img {
+max-width: 100%;
+height: auto;
+border-style: none;
+}
+

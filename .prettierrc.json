@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/prettierrc",
+  "trailingComma": "es5",
+  "prettier.eslintIntegration": true,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "printWidth": 140
+}
